@@ -1,11 +1,15 @@
-### Hi there 👋
+### My name is Alessia and I'm currently a CS student in uni ✨
+
+- 💞 **Currently learning:** HTML/CSS/JS 
+- 📝 **Currently working on:** Assignments from The Odin Project, I'm trying to learn full-stack JS
+- 💻 **Languages:** Java, Python, HTML (still learning), CSS (still learning), Javascript (still learning)
 
 <!--
 **alessiacodes/alessiacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
