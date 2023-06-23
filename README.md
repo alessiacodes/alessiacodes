@@ -1,4 +1,4 @@
-### My name is Alessia and I'm currently a CS student in uni ✨
+### My name is Alessia and I'm currently a CS student in university!
 
 - 💞 **Currently learning:** HTML/CSS/JS 
 - 📝 **Currently working on:** Assignments from The Odin Project, I'm trying to learn full-stack JS
