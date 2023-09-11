@@ -1,7 +1,7 @@
 ### My name is Alessia and I'm currently a CS student in university!
 
 - 💞 **Currently learning:** HTML/CSS/JS 
-- 💻 **Languages:** Java, Python, HTML (still learning), CSS (still learning), Javascript (still learning)
+- 💻 **Languages:** Java, Python
 
 <!--
 **alessiacodes/alessiacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
